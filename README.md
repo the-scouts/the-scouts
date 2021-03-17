@@ -40,7 +40,7 @@ For help in creating teams, please see Creating a team or email
 
 ## Current projects:
 
-### geo_mapping
+### incognita
 *Mapping the annual UK Scout Census to local geographies*
 
 ### compliance-dashboard
@@ -58,7 +58,9 @@ For help in creating teams, please see Creating a team or email
 ### compliance-assistant
 *Compliance Assistant++ implemented in python. Used for producing compliance bulletins*
 
-:exclamation: currently private, work needed to release publicly.
+```diff
+! currently private, work needed to release publicly.
+```
 
 ## License
 
